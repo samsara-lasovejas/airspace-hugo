@@ -73,10 +73,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/español"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "es-es"
+languageName = "Es"
 weight = 2
 [[Languages.fr.menu.footer]]
 URL = "about"
