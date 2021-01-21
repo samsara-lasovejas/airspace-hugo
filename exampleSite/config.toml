@@ -1,5 +1,5 @@
 baseURL = "http://lasovejas.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
@@ -143,12 +143,12 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Las Ovejas"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "Metalenguaje"
+email = "contacto@lasovejas.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "La Pedú"
 logo = "images/logo.png"
 logo_width = "150px"
 mobile = "0124857985320"
